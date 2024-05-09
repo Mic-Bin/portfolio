@@ -43,13 +43,14 @@ Certificate in Scientific Computation and Data Sciences, Certificate in Elements
 
 
 ### Work Experience
-#### OnRamps, *Austin, Texas*				   			           	 
+
+#### OnRamps, *Austin, Texas*		
 **College Algebra Course Grader**
 * Assessed hundreds of students' exams/course assignments weekly while maintaining accuracy and consistency in the Canvas Learning Management System.
 * Designed and maintained Excel spreadsheets to serve as functional databases for test responses, facilitating data storage and retrieval.
 * Demonstrated keen attention to detail when aiding superiors by reviewing new assignments/exams to be ready for publication.
-#### Gulf Coast Behavioral Clinic, *Corpus Christi, Texas* 
 
+#### Gulf Coast Behavioral Clinic, *Corpus Christi, Texas* 
 **Help Desk Technician**					
 * Redesigned the company website, reducing the monthly average of customer complaints by 80%.
 * Streamlined the patient document upload and review process by centralizing tasks and reducing physical file retrieval, resulting in a 42% increase in file upload speed.
