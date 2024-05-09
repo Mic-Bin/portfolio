@@ -43,7 +43,7 @@ Certificate in Scientific Computation and Data Sciences, Certificate in Elements
 * Redesigned the company website, reducing the monthly average of customer complaints by 80%.
 * Streamlined the patient document upload and review process by centralizing tasks and reducing physical file retrieval, resulting in a 42% increase in file upload speed.
 * Assisted colleagues with troubleshooting and resolving various technology-related issues, fostering a smooth and efficient office environment.
-#### Gulf Coast Behavioral Clinic, *Corpus Christi, Texas8			               
+              
 **Data Entry Clerk**							             
 * Provided excellent customer service and assistance at the front desk, addressing inquiries and directing visitors with professionalism and courtesy.
 * Managed incoming calls, emails, and inquiries, ensuring prompt and accurate responses to inquiries and concerns.
